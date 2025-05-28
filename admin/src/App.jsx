@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Navbar from './components/Navbar'
-import SideBar from './components/SideBar'
+import SideBar from './components/SideBar.jsx'
 import Add from './pages/Add'
 import List from './pages/list'
 import Orders from './pages/orders'
