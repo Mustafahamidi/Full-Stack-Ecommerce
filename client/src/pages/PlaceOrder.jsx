@@ -217,7 +217,7 @@ const PlaceOrder = () => {
               <img src={assets.stripe_logo} alt="Stripe Logo" />
             </div>
 
-            <div
+            {/* <div
               onClick={() => setMethod('razorpay')}
               className="flex items-center gap-3 border border-gray-300 p-2 px-3 cursor-pointer"
             >
@@ -225,7 +225,7 @@ const PlaceOrder = () => {
                 className={`min-w-[14px] h-[14px] border border-gray-300 rounded-full ${method === 'razorpay' ? 'bg-green-400' : ''}`}
               ></p>
               <img src={assets.razorpay_logo} alt="Razorpay Logo" />
-            </div>
+            </div> */}
 
             <div
               onClick={() => setMethod('cod')}
