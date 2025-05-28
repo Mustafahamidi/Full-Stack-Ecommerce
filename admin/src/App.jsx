@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import SideBar from './components/SideBar.jsx'
 import Add from './pages/Add'
 import List from './pages/list'
-import Orders from './pages/orders'
+import Orders from './pages/Orders.jsx'
 import { Routes, Route } from 'react-router-dom'
 import Login from './components/Login'
 
