@@ -100,11 +100,4 @@ cd backend
 npm install
 npm run dev
 
-## 👨‍🎓 Author
-
-**Mustafa Hamidi**  
-Final Year Student – Bakhtar University  
-Project Title: **E-commerce Website**  
-Supervisor: **Mohammad Fida Safi**
-
 
